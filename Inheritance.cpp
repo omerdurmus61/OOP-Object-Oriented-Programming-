@@ -40,8 +40,7 @@ public:
 };
 
 int main(){
-    adin a;
-    a.sa();
+    
     Robot myScara;
     myScara.setAxis(6);
     myScara.setColor("orange");
